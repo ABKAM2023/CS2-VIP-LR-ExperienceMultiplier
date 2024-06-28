@@ -9,7 +9,6 @@ In vip.json
 Translation:
 ```json
   "ExperienceMultiplier": "Experience Multiplier"
-
 ```
 
 # RU
