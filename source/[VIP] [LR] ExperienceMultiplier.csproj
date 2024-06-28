@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  
+  <ItemGroup>
+	<PackageReference Include="CounterStrikeSharp.API" Version="*" />
+	<Reference Include="LevelsRanksApi.dll">
+      <HintPath>..\LevelsRanksApi.dll</HintPath>
+    </Reference>	
+	<Reference Include="VipCoreApi.dll">
+      <HintPath>..\VipCoreApi.dll</HintPath>
+    </Reference>	
+  </ItemGroup>
+</Project>
