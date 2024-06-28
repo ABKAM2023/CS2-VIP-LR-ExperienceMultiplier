@@ -1,17 +1,17 @@
 # EN
 **[VIP(CSSharp)] [LR] ExperienceMultiplier** - grants VIP players an experience multiplier.
 
-In vip.json
+# In vip.json
 ```json
   "ExperienceMultiplier": 1.5
 ```
 
-Translation:
+# Translation:
 ```json
   "ExperienceMultiplier": "Experience Multiplier"
 ```
 
-Installation:
+# Installation:
 1. Install [C# LevelsRanks Core](https://github.com/ABKAM2023/CS2-LevelsRanks-Core) and [C# VIPCore](https://github.com/partiusfabaa/cs2-VIPCore).
 2. Extract the plugin archive to the server.
 3. Enter the necessary translations.
@@ -21,17 +21,17 @@ Installation:
 # RU
 **[VIP(CSSharp)] [LR] ExperienceMultiplier** - добавляет VIP-игрокам множитель опыта.
 
-В vip.json
+# В vip.json
 ```json
   "ExperienceMultiplier": 1.5
 ```
 
-Перевод:
+# Перевод:
 ```json
   "ExperienceMultiplier": "Множитель опыта"
 ```
 
-Установка:
+# Установка:
 1. Установите [C# LevelsRanks Core](https://github.com/ABKAM2023/CS2-LevelsRanks-Core) и [C# VIPCore](https://github.com/partiusfabaa/cs2-VIPCore)
 1. Распакуйте архив с плагином на сервер.
 2. Введите необходимые переводы.
